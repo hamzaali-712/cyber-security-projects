@@ -1,7 +1,9 @@
 import random
 import string
 import math
-
+#In ecryption we always work on indexes of the characters in the alphabet, 
+# so we need to define an alphabet that includes all the characters we want to use in our messages.
+# In this case, we will include lowercase letters, uppercase letters, punctuation, digits, and space.
 # Define the alphabet
 alphabet = list(string.ascii_lowercase + string.ascii_uppercase + string.punctuation + string.digits + " ")
 
