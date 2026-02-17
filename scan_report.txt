@@ -1,0 +1,21 @@
+('\n====SACN REPORT====\nTime:', datetime.datetime(2026, 2, 17, 19, 51, 41, 355652), '\nTarget:', '127.0.0.1', '\nOpen Ports:', [], '\nRisk Level:', 'Low', '\n=====================\n')
+==== SCAN REPORT ====
+Time: 2026-02-17 19:55:06.857324
+Target: 127.0.0.1
+Open Ports: [80]
+Risk Level: Low
+=====================
+
+==== SCAN REPORT ====
+Time: 2026-02-17 19:56:07.760321
+Target: 192.168.1.1
+Open Ports: []
+Risk Level: Low
+=====================
+
+==== SCAN REPORT ====
+Time: 2026-02-17 19:58:54.265488
+Target: 192.168.10.10
+Open Ports: []
+Risk Level: Low
+=====================
